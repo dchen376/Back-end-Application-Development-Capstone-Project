@@ -20,3 +20,14 @@ https://www.coursera.org/learn/backend-development-capstone-project
 ![image](https://github.com/user-attachments/assets/af5017f9-00d7-4fec-bdfc-c4d841e66f1d)
 
 ![image](https://github.com/user-attachments/assets/43f968fc-4312-40d4-8043-7254cc6d4d33)
+
+### basic application and routes
+
+- first, import 'Flask' class from the module 'flask'
+- next, Instantiate an object on the FLask class as your APP.
+  ![image](https://github.com/user-attachments/assets/9487a8a7-6b39-4594-b90f-458cbc9c1b34)
+
+- adding routes
+  ![image](https://github.com/user-attachments/assets/a025a9de-6a6c-4d0e-afbc-8fbd575187bb)
+
+  
