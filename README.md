@@ -16,3 +16,7 @@ https://www.coursera.org/learn/backend-development-capstone-project
 ![image](https://github.com/user-attachments/assets/ff354d68-67fb-4338-bc37-334d695be60e)
 
 ![image](https://github.com/user-attachments/assets/53f6f92e-cb57-4e51-9cf8-bcfd396b7aad)
+
+![image](https://github.com/user-attachments/assets/af5017f9-00d7-4fec-bdfc-c4d841e66f1d)
+
+![image](https://github.com/user-attachments/assets/43f968fc-4312-40d4-8043-7254cc6d4d33)
