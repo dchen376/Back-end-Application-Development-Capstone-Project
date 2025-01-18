@@ -41,3 +41,11 @@ https://www.coursera.org/learn/backend-development-capstone-project
 - 2nd way: using jsonify()
   ![image](https://github.com/user-attachments/assets/e2a8682f-a24d-4a9d-8a15-c1283c704bed)
   ![image](https://github.com/user-attachments/assets/38ae3e7c-1583-44ae-9e94-18940eba3208)
+
+- application configuration
+- loading configuration
+  ![image](https://github.com/user-attachments/assets/90324da5-748c-4e2d-b703-fd52aad9450a)
+  ![image](https://github.com/user-attachments/assets/d3ae1e6a-f9e7-4563-acb4-66eab14a8d6a)
+
+- application structure
+  ![image](https://github.com/user-attachments/assets/906e0647-0265-496f-a0ca-e3da45e2eaef)
