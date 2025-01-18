@@ -33,3 +33,11 @@ https://www.coursera.org/learn/backend-development-capstone-project
 - define flask app and development variables.
 - run the applicaiton
   ![image](https://github.com/user-attachments/assets/78406dbe-9bda-40c5-b807-0600ffaa82b4)
+
+- run falsk with Arguments
+  ![image](https://github.com/user-attachments/assets/8f8dd633-7d26-4e53-9f4b-7e9018896c51)
+
+- returning JSON
+- 2nd way: using jsonify()
+  ![image](https://github.com/user-attachments/assets/e2a8682f-a24d-4a9d-8a15-c1283c704bed)
+  ![image](https://github.com/user-attachments/assets/38ae3e7c-1583-44ae-9e94-18940eba3208)
