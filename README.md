@@ -30,4 +30,6 @@ https://www.coursera.org/learn/backend-development-capstone-project
 - adding routes
   ![image](https://github.com/user-attachments/assets/a025a9de-6a6c-4d0e-afbc-8fbd575187bb)
 
-  
+- define flask app and development variables.
+- run the applicaiton
+  ![image](https://github.com/user-attachments/assets/78406dbe-9bda-40c5-b807-0600ffaa82b4)
