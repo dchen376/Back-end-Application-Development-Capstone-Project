@@ -1,4 +1,4 @@
-# Back-end-Application-Development-Capstone-Project
+ # Back-end-Application-Development-Capstone-Project
 https://www.coursera.org/learn/backend-development-capstone-project
 
 
@@ -60,11 +60,22 @@ https://www.coursera.org/learn/backend-development-capstone-project
   ![image](https://github.com/user-attachments/assets/0de6c648-18dd-45ba-959d-2300a1068aa3)
   ![image](https://github.com/user-attachments/assets/f70bcecd-06cc-4657-b56d-9a86f9bcd143)
 
-  
-
 - custome routes examples
   ![image](https://github.com/user-attachments/assets/ef095101-0cac-4653-a95d-70571878db82)
 
 
 ### Dynamic Routes
+- how to call an **external API**
+  - use python requests library
+  ![image](https://github.com/user-attachments/assets/0a92c4cc-16cd-4526-9c99-044f9121d3ab)
+
+- how to pass **parameters to routes** in Flask
+  - dynamic route parameters
+    ![image](https://github.com/user-attachments/assets/03d6fc84-168c-47ff-82c1-d2484a33519c)
+    ![image](https://github.com/user-attachments/assets/9d91c37a-2a15-4289-9c8a-5242138a7a08)
+
+    
+
+
+
 ### Error Handing
