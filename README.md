@@ -74,8 +74,20 @@ https://www.coursera.org/learn/backend-development-capstone-project
     ![image](https://github.com/user-attachments/assets/03d6fc84-168c-47ff-82c1-d2484a33519c)
     ![image](https://github.com/user-attachments/assets/9d91c37a-2a15-4289-9c8a-5242138a7a08)
 
-    
-
-
-
 ### Error Handing
+- HTTP return status
+  ![image](https://github.com/user-attachments/assets/41fd8cd7-32de-4755-af08-c82782e44d86)
+  ![image](https://github.com/user-attachments/assets/5cbbdd3e-e6e9-46a2-b88e-2a8284368ff4)
+
+- error handling in flask
+ - return status: Explicit
+    ![image](https://github.com/user-attachments/assets/aac48bad-e185-4d97-bc45-9573b7896769)
+   
+- how to return erros from API in flask
+![image](https://github.com/user-attachments/assets/be76020c-b21b-4f8a-9518-534f0f657703)
+ - call this end-point with curl command
+   ![image](https://github.com/user-attachments/assets/2c49abe4-6f23-4baa-9c18-f567d9a63f13)
+   ![image](https://github.com/user-attachments/assets/5354517b-944b-4dcc-927c-ca99e6d5eb16)
+   ![image](https://github.com/user-attachments/assets/8274aba9-01d6-4447-9b49-153841c88bc2)
+
+
