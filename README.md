@@ -51,5 +51,20 @@ https://www.coursera.org/learn/backend-development-capstone-project
   ![image](https://github.com/user-attachments/assets/906e0647-0265-496f-a0ca-e3da45e2eaef)
 
 ### Request and Response Objects
+- flask **Request** Object
+  ![image](https://github.com/user-attachments/assets/a8af52db-91a6-4051-a259-e7c4030029db)
+  ![image](https://github.com/user-attachments/assets/a359e0d2-9f90-43b5-8569-97f0d614a101)
+  ![image](https://github.com/user-attachments/assets/e75e68ae-0e01-4dd8-8a09-1dac1c9a4f74)
+
+- Flask Response Object (send back to the clients)
+  ![image](https://github.com/user-attachments/assets/0de6c648-18dd-45ba-959d-2300a1068aa3)
+  ![image](https://github.com/user-attachments/assets/f70bcecd-06cc-4657-b56d-9a86f9bcd143)
+
+  
+
+- custome routes examples
+  ![image](https://github.com/user-attachments/assets/ef095101-0cac-4653-a95d-70571878db82)
+
+
 ### Dynamic Routes
 ### Error Handing
