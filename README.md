@@ -49,3 +49,7 @@ https://www.coursera.org/learn/backend-development-capstone-project
 
 - application structure
   ![image](https://github.com/user-attachments/assets/906e0647-0265-496f-a0ca-e3da45e2eaef)
+
+### Request and Response Objects
+### Dynamic Routes
+### Error Handing
