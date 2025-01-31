@@ -6,8 +6,7 @@ https://www.coursera.org/learn/backend-development-capstone-project
 
 
 ## M1 - FLASK basics:
-## <span style="color:blue;">M1 - FLASK basics:</span>
-<h2 style="color: blue;">M1 - FLASK basics:</h2>
+
 ![image](https://github.com/user-attachments/assets/99eea4ce-9129-47ff-817f-56ac9352c3de)
 
 ![image](https://github.com/user-attachments/assets/f99e5f98-d6a7-4083-9f6b-cbf26c550013)
