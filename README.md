@@ -99,5 +99,8 @@ https://www.coursera.org/learn/backend-development-capstone-project
 - NoSQL (key-value, Document, Column, Graph)
 
 ### NoSQL
+![image](https://github.com/user-attachments/assets/3e749c57-bcb7-4382-bccd-7122c0eacd18)
+
+
 
 
