@@ -5,7 +5,7 @@ https://www.coursera.org/learn/backend-development-capstone-project
 
 
 
-## FLASK:
+## M1 - FLASK basics:
 ![image](https://github.com/user-attachments/assets/99eea4ce-9129-47ff-817f-56ac9352c3de)
 
 ![image](https://github.com/user-attachments/assets/f99e5f98-d6a7-4083-9f6b-cbf26c550013)
@@ -92,5 +92,11 @@ https://www.coursera.org/learn/backend-development-capstone-project
    ![image](https://github.com/user-attachments/assets/2c49abe4-6f23-4baa-9c18-f567d9a63f13)
    ![image](https://github.com/user-attachments/assets/5354517b-944b-4dcc-927c-ca99e6d5eb16)
    ![image](https://github.com/user-attachments/assets/8274aba9-01d6-4447-9b49-153841c88bc2)
+
+
+## M2 - MongoDB, NoSQL
+- NoSQL (key-value, Document, Column, Graph)
+
+### NoSQL
 
 
