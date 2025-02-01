@@ -127,7 +127,12 @@ Update: replaceOne(), updateOne(), updateMany()
 Delete: deleteOne(), deleteMany()
 ![image](https://github.com/user-attachments/assets/bc12c082-02b5-4f0d-a43e-81f6fe6be4bf)
 
+### Access MongoDB from Python
 
+- MongoClient (a class help to interact with MongoDB)
+  ![image](https://github.com/user-attachments/assets/5621842a-4a4f-4aba-b74c-c142b6046415)
+
+![image](https://github.com/user-attachments/assets/c369c839-48fd-4b95-a758-d621b418ae5b)
 
 
 
