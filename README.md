@@ -111,6 +111,24 @@ https://www.coursera.org/learn/backend-development-capstone-project
 ### MongoDB overview
 ![image](https://github.com/user-attachments/assets/1b928c2b-325a-49ab-bd68-5a8324d8d83e)
 
+### CRUD
+Create: insertOne(), inertMany()
+![image](https://github.com/user-attachments/assets/2cf368aa-24ac-467c-9aa8-52443b0c6dd9)
+
+Read: findOne(), find(), count(),
+![image](https://github.com/user-attachments/assets/daa5eb74-0b5a-4d20-9485-d1d2a11c6047)
+
+Update: replaceOne(), updateOne(), updateMany()
+![image](https://github.com/user-attachments/assets/6a861796-be39-4333-b3db-953fce491c8b)
+![image](https://github.com/user-attachments/assets/96c92888-73c8-405c-b643-68836eda5af6)
+
+Delete: deleteOne(), deleteMany()
+![image](https://github.com/user-attachments/assets/bc12c082-02b5-4f0d-a43e-81f6fe6be4bf)
+
+
+
+
+
 
 
 
