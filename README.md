@@ -101,6 +101,19 @@ https://www.coursera.org/learn/backend-development-capstone-project
 ### NoSQL
 ![image](https://github.com/user-attachments/assets/3e749c57-bcb7-4382-bccd-7122c0eacd18)
 
+- benefits: Scalability, Performance, Availability, Cloud Architecture, Cost, Flexible Schema, Varied Data Structures, Specialized Capabilities 
+
+### Document-based
+![image](https://github.com/user-attachments/assets/27b8e893-18dc-4da4-bbfa-9a0609cfcf09)
+![image](https://github.com/user-attachments/assets/f5fe8bb7-b36e-4eb1-bebf-ce13959a93dd)
+![image](https://github.com/user-attachments/assets/f04b8aca-5e8f-457e-8ae0-9ce0b06307a1)
+
+### MongoDB overview
+![image](https://github.com/user-attachments/assets/1b928c2b-325a-49ab-bd68-5a8324d8d83e)
+
+
+
+
 
 
 
