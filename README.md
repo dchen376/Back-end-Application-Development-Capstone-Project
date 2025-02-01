@@ -117,6 +117,8 @@ Create: insertOne(), inertMany()
 
 Read: findOne(), find(), count(),
 ![image](https://github.com/user-attachments/assets/daa5eb74-0b5a-4d20-9485-d1d2a11c6047)
+![image](https://github.com/user-attachments/assets/3c5076fd-d7a5-49da-83f9-ab8d75ec1dbc)
+
 
 Update: replaceOne(), updateOne(), updateMany()
 ![image](https://github.com/user-attachments/assets/6a861796-be39-4333-b3db-953fce491c8b)
