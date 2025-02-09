@@ -135,6 +135,16 @@ Delete: deleteOne(), deleteMany()
 ![image](https://github.com/user-attachments/assets/c369c839-48fd-4b95-a758-d621b418ae5b)
 
 
+### Creating Songs with MongoDB and Flask (2nd lab)
+- overview: create a service in Flask that gets songs from MongoDB database.
+- todo:
+ - start MongoDB database server
+ - create a flask server
+ - write RESTful APIs on song resource
+ - test the APIs
+
+
+
 
 
 
