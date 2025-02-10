@@ -144,6 +144,10 @@ Delete: deleteOne(), deleteMany()
  - test the APIs
 
 
+## M3 - Main Django Application
+- create a Django application and connect it to services
+- create a data model and use Django migration tool to create the tables and relationships
+- create controllers to implement business logic to send appropriate data to the provided templates
 
 
 
