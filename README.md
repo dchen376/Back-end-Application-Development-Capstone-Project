@@ -149,10 +149,8 @@ Delete: deleteOne(), deleteMany()
 - create a data model and use Django migration tool to create the tables and relationships
 - create controllers to implement business logic to send appropriate data to the provided templates
 
+## M4 - Deploy your application and services
 
-
-
-
-
-
+- intro to serverless with code engine
+- deploy your application and services
 
